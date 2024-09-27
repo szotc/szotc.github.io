@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://szotc.github.io/rOg/sitemap.rOg.gz
